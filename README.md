@@ -22,7 +22,7 @@ Aquí puedes ver el funcionamiento de la aplicación:
 ![Vista Principal](ruta/a/tu/imagen1.png)
 *Descripción: Interfaz principal con el contador de vasos y botón de añadir.*
 
-![Acción de Reinicio](C:\Users\Lenovo\OneDrive - Instituto Politecnico Nacional\Pictures\Screenshots\Captura de Pantalla (74))
+![Acción de Reinicio](C:\Users\Lenovo\OneDrive - Instituto Politecnico Nacional\Pictures\Screenshots\Primera.png))
 *Descripción: Opción de reinicio de progreso diario.*
 
 ---
